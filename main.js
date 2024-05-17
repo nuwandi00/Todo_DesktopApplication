@@ -1,0 +1,1 @@
+const {app,browserWindow} = require('electron');
